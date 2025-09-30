@@ -1,0 +1,69 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 6fc6c121-43ca-df94-9798-8f42d400af8b
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: d8d7faa7-fa33-f2f9-9e6c-45e615e825c5
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: cc39e9ea-43f3-3f24-e4da-ade692160ca1
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: e63fa954-bf10-a50e-bdc5-d0a749efc0c3
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 40
+- identifier: 66921d79-d7c4-0841-0ce7-ea08dc4d51de
+  name: A Love Letter
+  pageRef: /pages/assignments/a-love-letter
+  parent: e63fa954-bf10-a50e-bdc5-d0a749efc0c3
+  weight: 50
+- identifier: 1feadcd9-3c4c-b08d-d058-2ab888d39917
+  name: The Great Gatsby
+  pageRef: /pages/assignments/the-great-gatsby
+  parent: e63fa954-bf10-a50e-bdc5-d0a749efc0c3
+  weight: 60
+- identifier: 07d26329-8359-919f-abb5-69a41d66b8d9
+  name: Waitress Pie Recipe
+  pageRef: /pages/assignments/waitress-pie-recipe
+  parent: e63fa954-bf10-a50e-bdc5-d0a749efc0c3
+  weight: 70
+- identifier: 8f86e467-2df8-45c0-96aa-5bf2ea3d18df
+  name: Essay 1
+  pageRef: /pages/assignments/essay-1
+  parent: e63fa954-bf10-a50e-bdc5-d0a749efc0c3
+  weight: 80
+- identifier: 1eff8262-18a3-2395-22d8-9a551f310895
+  name: Fun Home
+  pageRef: /pages/assignments/fun-home
+  parent: e63fa954-bf10-a50e-bdc5-d0a749efc0c3
+  weight: 90
+- identifier: 3c752c10-457f-888d-545f-d6a30d1002e1
+  name: Beloved
+  pageRef: /pages/assignments/beloved
+  parent: e63fa954-bf10-a50e-bdc5-d0a749efc0c3
+  weight: 100
+- identifier: 0dd16060-b2d7-0c6f-e1b3-f7d6548ca9fe
+  name: Essay 2
+  pageRef: /pages/assignments/essay-2
+  parent: e63fa954-bf10-a50e-bdc5-d0a749efc0c3
+  weight: 110
+- identifier: 4bdcecec-9918-dbc0-270a-0cc7d4571e46
+  name: Benito Cereno
+  pageRef: /pages/assignments/benito-cereno
+  parent: e63fa954-bf10-a50e-bdc5-d0a749efc0c3
+  weight: 120
+- identifier: 38b655e0-0d2c-e77e-5ce7-cae16a3e3fb7
+  name: Woman Hollering Creek and Other Stories
+  pageRef: /pages/assignments/woman-hollering-creek-and-other-stories
+  parent: e63fa954-bf10-a50e-bdc5-d0a749efc0c3
+  weight: 130
+- identifier: bc437984-4b3d-0b9c-897c-1012c467a528
+  name: Essay 3
+  pageRef: /pages/assignments/essay-3
+  parent: e63fa954-bf10-a50e-bdc5-d0a749efc0c3
+  weight: 140
