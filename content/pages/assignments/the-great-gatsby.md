@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section contains guidelines for The Great Gatsby assignment.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -17,7 +15,7 @@ The assignment is a short and focused exercise in what is commonly phrased as _c
 
 _A few words to get the wheels turning ..._
 
-In class we discussed the original 1925 [cover art of _The Great Gatsby_ by Francis Cugart](https://americanwritersmuseum.org/stories-behind-classic-book-covers-the-great-gatsby/), focusing on my question: “What are the categories through which you see and read the figure?” In an effort to complicate notions of _gender_ representation (specifically femininity), I prodded you to re-think how you read the feminine figure’s eyes, _her_ lips, _her_ mascara, _her_ eyeliner, and _her_ missing nose. To extend our reading outside of _gender_, I cued us to think how a nose doesn’t reveal _gender_ but how it might reveal _race_ (or, to challenge us further, _class_). You might also consider the tear, the cityscape, and/or why the woman’s eyes reflect nude female figures.
+In class we discussed the original 1925 {{% resource_link "0e3587dd-8ee0-43f9-95a9-0ffc4c00da16" "cover art of _The Great Gatsby_ by Francis Cugart" %}}, focusing on my question: “What are the categories through which you see and read the figure?” In an effort to complicate notions of _gender_ representation (specifically femininity), I prodded you to re-think how you read the feminine figure’s eyes, _her_ lips, _her_ mascara, _her_ eyeliner, and _her_ missing nose. To extend our reading outside of _gender_, I cued us to think how a nose doesn’t reveal _gender_ but how it might reveal _race_ (or, to challenge us further, _class_). You might also consider the tear, the cityscape, and/or why the woman’s eyes reflect nude female figures.
 
 Drawing a parallel between our reading of the cover art, I prodded you to examine character portraits of Nick Carraway and Tom Buchanan (as a class we read the middle of page 6 and top of page 7 for passages related to Tom).
 
@@ -37,4 +35,4 @@ Useful vocabulary:
 
 For a definition of “gender criticism” and/or "feminist and gender criticism" see:
 
-Gardner, Janet E. _Reading and Writing About Literature: A Portable Guide_. 3rd edition. Bedford/St. Martin's, 2012, p. 189. ISBN: 9781457606496. \[Preview with [Google Books](https://books.google.com/books?id=s97fQH3EdloC&lpg=PP1&dq=gardner%20reading%20and%20writing%20about%20literature&pg=PP1#v=onepage&q&f=false)\]
+Gardner, Janet E. _Reading and Writing About Literature: A Portable Guide_. 3rd edition. Bedford/St. Martin's, 2012, p. 189. ISBN: 9781457606496. \[Preview with {{% resource_link "7a362879-2177-4ebc-9f37-55548712b747" "Google Books" %}}\]

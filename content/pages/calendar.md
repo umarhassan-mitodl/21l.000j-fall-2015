@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains the course calendar with class topics and assignment
   due dates.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -92,7 +90,7 @@ Plot
 
 _Waitress_ Pie Recipe assignment due Session 4
 
-_Waitress_ (the musical at [A.R.T.](https://americanrepertorytheater.org/))
+_Waitress_ (the musical at {{% resource_link "432a02f9-2ad0-48bb-800d-c80ef76cc034" "A.R.T." %}})
 
 Draft of Essay 1 due five days after Session 4
 
@@ -192,7 +190,7 @@ Draft of Essay 2 due Session 11
 _Beloved_
 {{< tdclose >}}
 {{< tdopen >}}
-Library Research Workshop in [Hayden Library](https://libraries.mit.edu/hayden/)
+Library Research Workshop in {{% resource_link "e0168435-7643-4ef3-9ca7-7224c723608c" "Hayden Library" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
